@@ -21,8 +21,8 @@ public class Main {
       }
     }
     public static void StackOrQueue(){
-        System.out.println("1 - Stack");
-        System.out.println("2 - Queue");
+        System.out.println("1 - stack");
+        System.out.println("2 - queue");
         System.out.println("0 - exit");
         System.out.print("=> ");
     }
